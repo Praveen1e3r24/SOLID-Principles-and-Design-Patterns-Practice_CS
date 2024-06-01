@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SOLID",
+    "\\SOLID\\Open Closed Principle",
+    "\\SOLID\\Open Closed Principle\\Case 1",
+    "\\SOLID\\Open Closed Principle\\Case 1\\OCP Violation\\OCP Violation",
+    "\\SOLID\\Open Closed Principle\\Case 1\\OCP Violation\\OCP Violation\\OCP Violation",
+    "\\SOLID\\Open Closed Principle\\Case 2",
+    "\\SOLID\\Open Closed Principle\\Case 2\\OCP Violation",
+    "\\SOLID\\Open Closed Principle\\Case 2\\OCP Violation\\OCP Violation",
+    "\\SOLID\\Open Closed Principle\\Case 2\\OCP Violation\\OCP Violation\\OCP Violation"
   ],
+  "SelectedNode": "\\SOLID\\Open Closed Principle\\Case 2\\OCP Violation\\OCP Violation\\OCP Violation\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
