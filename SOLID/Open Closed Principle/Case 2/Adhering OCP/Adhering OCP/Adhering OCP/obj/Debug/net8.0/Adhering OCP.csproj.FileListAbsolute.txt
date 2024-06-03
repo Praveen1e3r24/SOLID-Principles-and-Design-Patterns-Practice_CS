@@ -1,0 +1,15 @@
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\Adhering OCP\Adhering OCP\Adhering OCP\bin\Debug\net8.0\Adhering OCP.exe
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\Adhering OCP\Adhering OCP\Adhering OCP\bin\Debug\net8.0\Adhering OCP.deps.json
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\Adhering OCP\Adhering OCP\Adhering OCP\bin\Debug\net8.0\Adhering OCP.runtimeconfig.json
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\Adhering OCP\Adhering OCP\Adhering OCP\bin\Debug\net8.0\Adhering OCP.dll
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\Adhering OCP\Adhering OCP\Adhering OCP\bin\Debug\net8.0\Adhering OCP.pdb
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\Adhering OCP\Adhering OCP\Adhering OCP\obj\Debug\net8.0\Adhering OCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\Adhering OCP\Adhering OCP\Adhering OCP\obj\Debug\net8.0\Adhering OCP.AssemblyInfoInputs.cache
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\Adhering OCP\Adhering OCP\Adhering OCP\obj\Debug\net8.0\Adhering OCP.AssemblyInfo.cs
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\Adhering OCP\Adhering OCP\Adhering OCP\obj\Debug\net8.0\Adhering OCP.csproj.CoreCompileInputs.cache
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\Adhering OCP\Adhering OCP\Adhering OCP\obj\Debug\net8.0\Adhering OCP.sourcelink.json
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\Adhering OCP\Adhering OCP\Adhering OCP\obj\Debug\net8.0\Adhering OCP.dll
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\Adhering OCP\Adhering OCP\Adhering OCP\obj\Debug\net8.0\refint\Adhering OCP.dll
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\Adhering OCP\Adhering OCP\Adhering OCP\obj\Debug\net8.0\Adhering OCP.pdb
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\Adhering OCP\Adhering OCP\Adhering OCP\obj\Debug\net8.0\Adhering OCP.genruntimeconfig.cache
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\Adhering OCP\Adhering OCP\Adhering OCP\obj\Debug\net8.0\ref\Adhering OCP.dll

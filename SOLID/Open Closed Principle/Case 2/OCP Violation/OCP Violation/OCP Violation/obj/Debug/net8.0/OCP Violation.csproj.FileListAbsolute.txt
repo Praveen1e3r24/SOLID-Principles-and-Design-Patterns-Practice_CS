@@ -1,0 +1,15 @@
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\OCP Violation\OCP Violation\OCP Violation\bin\Debug\net8.0\OCP Violation.exe
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\OCP Violation\OCP Violation\OCP Violation\bin\Debug\net8.0\OCP Violation.deps.json
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\OCP Violation\OCP Violation\OCP Violation\bin\Debug\net8.0\OCP Violation.runtimeconfig.json
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\OCP Violation\OCP Violation\OCP Violation\bin\Debug\net8.0\OCP Violation.dll
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\OCP Violation\OCP Violation\OCP Violation\bin\Debug\net8.0\OCP Violation.pdb
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\OCP Violation\OCP Violation\OCP Violation\obj\Debug\net8.0\OCP Violation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\OCP Violation\OCP Violation\OCP Violation\obj\Debug\net8.0\OCP Violation.AssemblyInfoInputs.cache
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\OCP Violation\OCP Violation\OCP Violation\obj\Debug\net8.0\OCP Violation.AssemblyInfo.cs
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\OCP Violation\OCP Violation\OCP Violation\obj\Debug\net8.0\OCP Violation.csproj.CoreCompileInputs.cache
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\OCP Violation\OCP Violation\OCP Violation\obj\Debug\net8.0\OCP Violation.sourcelink.json
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\OCP Violation\OCP Violation\OCP Violation\obj\Debug\net8.0\OCP Violation.dll
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\OCP Violation\OCP Violation\OCP Violation\obj\Debug\net8.0\refint\OCP Violation.dll
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\OCP Violation\OCP Violation\OCP Violation\obj\Debug\net8.0\OCP Violation.pdb
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\OCP Violation\OCP Violation\OCP Violation\obj\Debug\net8.0\OCP Violation.genruntimeconfig.cache
+C:\Users\Praveen\source\repos\SOLID-Principles-and-Design-Patterns-Practice_CS\SOLID\Open Closed Principle\Case 2\OCP Violation\OCP Violation\OCP Violation\obj\Debug\net8.0\ref\OCP Violation.dll

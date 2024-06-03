@@ -1,16 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\SOLID",
-    "\\SOLID\\Open Closed Principle",
-    "\\SOLID\\Open Closed Principle\\Case 1",
-    "\\SOLID\\Open Closed Principle\\Case 1\\OCP Violation\\OCP Violation",
-    "\\SOLID\\Open Closed Principle\\Case 1\\OCP Violation\\OCP Violation\\OCP Violation",
-    "\\SOLID\\Open Closed Principle\\Case 2",
-    "\\SOLID\\Open Closed Principle\\Case 2\\OCP Violation",
-    "\\SOLID\\Open Closed Principle\\Case 2\\OCP Violation\\OCP Violation",
-    "\\SOLID\\Open Closed Principle\\Case 2\\OCP Violation\\OCP Violation\\OCP Violation"
+    "\\Design Patterns",
+    "\\Design Patterns\\Factory Design Pattern",
+    "\\Design Patterns\\Factory Design Pattern\\Practical 1",
+    "\\SOLID"
   ],
-  "SelectedNode": "\\SOLID\\Open Closed Principle\\Case 2\\OCP Violation\\OCP Violation\\OCP Violation\\Program.cs",
+  "SelectedNode": "\\Design Patterns",
   "PreviewInSolutionExplorer": false
 }

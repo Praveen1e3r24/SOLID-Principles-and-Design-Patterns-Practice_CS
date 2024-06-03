@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\Design Patterns\\Factory Design Pattern\\Case 2\\Violating FDP\\Violating FDP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Open Closed Principle\\Case 2\\OCP Violation\\OCP Violation\\OCP Violation\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Open Closed Principle\\Case 2\\Adhering OCP\\Adhering OCP\\Adhering OCP\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Open Closed Principle\\Case 1\\Adhering OCP\\Adhering OCP\\Adhering OCP\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Open Closed Principle\\Case 1\\OCP Violation\\OCP Violation\\OCP Violation\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Open Closed Principle\\Case 1\\Adhering OCP\\Adhering OCP\\Adhering OCP\\Adhering OCP.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Single Responsibilty Principle\\Theory Quiz\\Theory Quiz\\Theory Quiz\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Single Responsibilty Principle\\Theory Quiz\\Theory Quiz\\Theory Quiz\\Theory Quiz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Single Responsibilty Principle\\Practical 1\\SRP Violation\\SRP Violation\\SRP Violation\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBEE3E8-8157-41AC-829A-ECC1975FF78A}|Violating FDP\\Violating FDP.csproj|c:\\users\\praveen\\source\\repos\\solid-principles-and-design-patterns-practice_cs\\design patterns\\factory design pattern\\case 2\\violating fdp\\violating fdp\\violating fdp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBEE3E8-8157-41AC-829A-ECC1975FF78A}|Violating FDP\\Violating FDP.csproj|solutionrelative:violating fdp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Open Closed Principle\\Case 2\\OCP Violation\\OCP Violation\\OCP Violation\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\SOLID\\Open Closed Principle\\Case 2\\OCP Violation\\OCP Violation\\OCP Violation\\Program.cs",
+              "ToolTip": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Open Closed Principle\\Case 2\\OCP Violation\\OCP Violation\\OCP Violation\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\SOLID\\Open Closed Principle\\Case 2\\OCP Violation\\OCP Violation\\OCP Violation\\Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAcwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:12:59.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Open Closed Principle\\Case 1\\OCP Violation\\OCP Violation\\OCP Violation\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\SOLID\\Open Closed Principle\\Case 1\\OCP Violation\\OCP Violation\\OCP Violation\\Program.cs",
+              "ToolTip": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Open Closed Principle\\Case 1\\OCP Violation\\OCP Violation\\OCP Violation\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\SOLID\\Open Closed Principle\\Case 1\\OCP Violation\\OCP Violation\\OCP Violation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:48:32.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Open Closed Principle\\Case 1\\Adhering OCP\\Adhering OCP\\Adhering OCP\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\SOLID\\Open Closed Principle\\Case 1\\Adhering OCP\\Adhering OCP\\Adhering OCP\\Program.cs",
+              "ToolTip": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Open Closed Principle\\Case 1\\Adhering OCP\\Adhering OCP\\Adhering OCP\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\SOLID\\Open Closed Principle\\Case 1\\Adhering OCP\\Adhering OCP\\Adhering OCP\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:45:43.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Adhering OCP.csproj",
+              "DocumentMoniker": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Open Closed Principle\\Case 1\\Adhering OCP\\Adhering OCP\\Adhering OCP\\Adhering OCP.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\SOLID\\Open Closed Principle\\Case 1\\Adhering OCP\\Adhering OCP\\Adhering OCP\\Adhering OCP.csproj",
+              "ToolTip": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Open Closed Principle\\Case 1\\Adhering OCP\\Adhering OCP\\Adhering OCP\\Adhering OCP.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\SOLID\\Open Closed Principle\\Case 1\\Adhering OCP\\Adhering OCP\\Adhering OCP\\Adhering OCP.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T07:45:41.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Open Closed Principle\\Case 2\\Adhering OCP\\Adhering OCP\\Adhering OCP\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\SOLID\\Open Closed Principle\\Case 2\\Adhering OCP\\Adhering OCP\\Adhering OCP\\Program.cs",
+              "ToolTip": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Open Closed Principle\\Case 2\\Adhering OCP\\Adhering OCP\\Adhering OCP\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\SOLID\\Open Closed Principle\\Case 2\\Adhering OCP\\Adhering OCP\\Adhering OCP\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:45:34.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Single Responsibilty Principle\\Theory Quiz\\Theory Quiz\\Theory Quiz\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\SOLID\\Single Responsibilty Principle\\Theory Quiz\\Theory Quiz\\Theory Quiz\\Program.cs",
+              "ToolTip": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Single Responsibilty Principle\\Theory Quiz\\Theory Quiz\\Theory Quiz\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\SOLID\\Single Responsibilty Principle\\Theory Quiz\\Theory Quiz\\Theory Quiz\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:42:35.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Theory Quiz.csproj",
+              "DocumentMoniker": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Single Responsibilty Principle\\Theory Quiz\\Theory Quiz\\Theory Quiz\\Theory Quiz.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\SOLID\\Single Responsibilty Principle\\Theory Quiz\\Theory Quiz\\Theory Quiz\\Theory Quiz.csproj",
+              "ToolTip": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Single Responsibilty Principle\\Theory Quiz\\Theory Quiz\\Theory Quiz\\Theory Quiz.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\SOLID\\Single Responsibilty Principle\\Theory Quiz\\Theory Quiz\\Theory Quiz\\Theory Quiz.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T07:42:34.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Single Responsibilty Principle\\Practical 1\\SRP Violation\\SRP Violation\\SRP Violation\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\SOLID\\Single Responsibilty Principle\\Practical 1\\SRP Violation\\SRP Violation\\SRP Violation\\Program.cs",
+              "ToolTip": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Single Responsibilty Principle\\Practical 1\\SRP Violation\\SRP Violation\\SRP Violation\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\SOLID\\Single Responsibilty Principle\\Practical 1\\SRP Violation\\SRP Violation\\SRP Violation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:42:27.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\Design Patterns\\Factory Design Pattern\\Case 2\\Violating FDP\\Violating FDP\\Violating FDP\\Program.cs",
+              "RelativeDocumentMoniker": "Violating FDP\\Program.cs",
+              "ToolTip": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\Design Patterns\\Factory Design Pattern\\Case 2\\Violating FDP\\Violating FDP\\Violating FDP\\Program.cs",
+              "RelativeToolTip": "Violating FDP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:24:45.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\Design Patterns\\Factory Design Pattern\\Case 2\\Adhering FDP\\Adhering FDP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BB0C6A-2E49-42F2-9941-B9245B7F0728}|Adhering FDP\\Adhering FDP.csproj|c:\\users\\praveen\\source\\repos\\solid-principles-and-design-patterns-practice_cs\\design patterns\\factory design pattern\\case 2\\adhering fdp\\adhering fdp\\adhering fdp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BB0C6A-2E49-42F2-9941-B9245B7F0728}|Adhering FDP\\Adhering FDP.csproj|solutionrelative:adhering fdp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\Design Patterns\\Factory Design Pattern\\Case 2\\Adhering FDP\\Adhering FDP\\Adhering FDP\\Program.cs",
+              "RelativeDocumentMoniker": "Adhering FDP\\Program.cs",
+              "ToolTip": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\Design Patterns\\Factory Design Pattern\\Case 2\\Adhering FDP\\Adhering FDP\\Adhering FDP\\Program.cs",
+              "RelativeToolTip": "Adhering FDP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:22:26.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

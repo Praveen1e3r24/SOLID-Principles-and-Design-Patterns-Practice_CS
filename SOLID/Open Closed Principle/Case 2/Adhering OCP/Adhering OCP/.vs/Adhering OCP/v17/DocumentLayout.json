@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Open Closed Principle\\Case 2\\Adhering OCP\\Adhering OCP\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{F93DCE5A-65E5-46B6-B034-8B4DE593EB67}|Adhering OCP\\Adhering OCP.csproj|c:\\users\\praveen\\source\\repos\\solid-principles-and-design-patterns-practice_cs\\solid\\open closed principle\\case 2\\adhering ocp\\adhering ocp\\adhering ocp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F93DCE5A-65E5-46B6-B034-8B4DE593EB67}|Adhering OCP\\Adhering OCP.csproj|solutionrelative:adhering ocp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,24 +9,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Open Closed Principle\\Case 2\\Adhering OCP\\Adhering OCP\\Adhering OCP\\Program.cs",
-              "RelativeDocumentMoniker": "Adhering OCP\\Program.cs",
-              "ToolTip": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Open Closed Principle\\Case 2\\Adhering OCP\\Adhering OCP\\Adhering OCP\\Program.cs",
-              "RelativeToolTip": "Adhering OCP\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T10:40:59.493Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }

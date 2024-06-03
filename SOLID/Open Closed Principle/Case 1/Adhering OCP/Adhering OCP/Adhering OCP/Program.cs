@@ -11,6 +11,7 @@ public class Game
         {
             new Sword(),
             new Bow()
+            // Add new weapons here without modifying existing code
         };
     }
 
@@ -18,27 +19,31 @@ public class Game
     {
         foreach (var weapon in weapons)
         {
-            if (weapon is Sword)
-            {
-                Console.WriteLine("Sword damage: 10");
-            }
-            else if (weapon is Bow)
-            {
-                Console.WriteLine("Bow damage: 5");
-            }
-            else
-            {
-                throw new Exception("Unknown weapon");
-            }
+            Console.WriteLine(weapon.GetDamage());
         }
     }
 }
 
-public class Weapon { }
+public abstract class Weapon
+{
+    public abstract string GetDamage();
+}
 
-public class Sword : Weapon { }
+public class Sword : Weapon
+{
+    public override string GetDamage()
+    {
+        return "Sword damage: 10";
+    }
+}
 
-public class Bow : Weapon { }
+public class Bow : Weapon
+{
+    public override string GetDamage()
+    {
+        return "Bow damage: 5";
+    }
+}
 
 class Program
 {
