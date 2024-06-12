@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Open Closed Principle\\Case 2\\OCP Violation\\OCP Violation\\OCP Violation\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SOLID\\Open Closed Principle\\Case 2\\OCP Violation\\OCP Violation\\OCP Violation\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Single Responsibilty Principle\\Practical 1\\SRP Violation\\SRP Violation\\SRP Violation\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SOLID\\Single Responsibilty Principle\\Practical 1\\SRP Violation\\SRP Violation\\SRP Violation\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Single Responsibilty Principle\\Case 3\\SRP Violation\\SRP Violation\\SRP Violation\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SOLID\\Single Responsibilty Principle\\Case 3\\SRP Violation\\SRP Violation\\SRP Violation\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Single Responsibilty Principle\\Case 2\\Adhering SRP\\Adhering SRP\\Adhering SRP\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SOLID\\Single Responsibilty Principle\\Case 2\\Adhering SRP\\Adhering SRP\\Adhering SRP\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,8 +38,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -36,18 +52,54 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Single Responsibilty Principle\\Case 2\\Adhering SRP\\Adhering SRP\\Adhering SRP\\Program.cs",
-              "RelativeDocumentMoniker": "SOLID\\Single Responsibilty Principle\\Case 2\\Adhering SRP\\Adhering SRP\\Adhering SRP\\Program.cs",
-              "ToolTip": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Single Responsibilty Principle\\Case 2\\Adhering SRP\\Adhering SRP\\Adhering SRP\\Program.cs",
-              "RelativeToolTip": "SOLID\\Single Responsibilty Principle\\Case 2\\Adhering SRP\\Adhering SRP\\Adhering SRP\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Open Closed Principle\\Case 2\\OCP Violation\\OCP Violation\\OCP Violation\\Program.cs",
+              "RelativeDocumentMoniker": "SOLID\\Open Closed Principle\\Case 2\\OCP Violation\\OCP Violation\\OCP Violation\\Program.cs",
+              "ToolTip": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Open Closed Principle\\Case 2\\OCP Violation\\OCP Violation\\OCP Violation\\Program.cs",
+              "RelativeToolTip": "SOLID\\Open Closed Principle\\Case 2\\OCP Violation\\OCP Violation\\OCP Violation\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T08:52:09.344Z",
+              "WhenOpened": "2024-06-04T03:23:02.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Single Responsibilty Principle\\Practical 1\\SRP Violation\\SRP Violation\\SRP Violation\\Program.cs",
+              "RelativeDocumentMoniker": "SOLID\\Single Responsibilty Principle\\Practical 1\\SRP Violation\\SRP Violation\\SRP Violation\\Program.cs",
+              "ToolTip": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Single Responsibilty Principle\\Practical 1\\SRP Violation\\SRP Violation\\SRP Violation\\Program.cs",
+              "RelativeToolTip": "SOLID\\Single Responsibilty Principle\\Practical 1\\SRP Violation\\SRP Violation\\SRP Violation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T03:22:53.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Single Responsibilty Principle\\Case 3\\SRP Violation\\SRP Violation\\SRP Violation\\Program.cs",
+              "RelativeDocumentMoniker": "SOLID\\Single Responsibilty Principle\\Case 3\\SRP Violation\\SRP Violation\\SRP Violation\\Program.cs",
+              "ToolTip": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Single Responsibilty Principle\\Case 3\\SRP Violation\\SRP Violation\\SRP Violation\\Program.cs",
+              "RelativeToolTip": "SOLID\\Single Responsibilty Principle\\Case 3\\SRP Violation\\SRP Violation\\SRP Violation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T03:22:43.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Single Responsibilty Principle\\Case 2\\Adhering SRP\\Adhering SRP\\Adhering SRP\\Program.cs",
+              "RelativeDocumentMoniker": "SOLID\\Single Responsibilty Principle\\Case 2\\Adhering SRP\\Adhering SRP\\Adhering SRP\\Program.cs",
+              "ToolTip": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Single Responsibilty Principle\\Case 2\\Adhering SRP\\Adhering SRP\\Adhering SRP\\Program.cs",
+              "RelativeToolTip": "SOLID\\Single Responsibilty Principle\\Case 2\\Adhering SRP\\Adhering SRP\\Adhering SRP\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:52:09.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Adhering SRP.csproj",
               "DocumentMoniker": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Single Responsibilty Principle\\Case 2\\Adhering SRP\\Adhering SRP\\Adhering SRP\\Adhering SRP.csproj",
               "RelativeDocumentMoniker": "SOLID\\Single Responsibilty Principle\\Case 2\\Adhering SRP\\Adhering SRP\\Adhering SRP\\Adhering SRP.csproj",
@@ -55,12 +107,11 @@
               "RelativeToolTip": "SOLID\\Single Responsibilty Principle\\Case 2\\Adhering SRP\\Adhering SRP\\Adhering SRP\\Adhering SRP.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-31T08:52:07.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T08:52:07.296Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Single Responsibilty Principle\\Case 1\\SRP Violation\\SRP Violation\\SRP Violation\\Program.cs",
               "RelativeDocumentMoniker": "SOLID\\Single Responsibilty Principle\\Case 1\\SRP Violation\\SRP Violation\\SRP Violation\\Program.cs",
@@ -68,12 +119,11 @@
               "RelativeToolTip": "SOLID\\Single Responsibilty Principle\\Case 1\\SRP Violation\\SRP Violation\\SRP Violation\\Program.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T08:46:20.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T08:46:20.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Single Responsibilty Principle\\Case 1\\Adhering SRP\\Adhering SRP\\Adhering SRP\\Program.cs",
               "RelativeDocumentMoniker": "SOLID\\Single Responsibilty Principle\\Case 1\\Adhering SRP\\Adhering SRP\\Adhering SRP\\Program.cs",
@@ -81,8 +131,7 @@
               "RelativeToolTip": "SOLID\\Single Responsibilty Principle\\Case 1\\Adhering SRP\\Adhering SRP\\Adhering SRP\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T08:46:13.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T08:46:13.094Z"
             }
           ]
         }

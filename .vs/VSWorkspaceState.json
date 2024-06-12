@@ -1,11 +1,18 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Design Patterns",
-    "\\Design Patterns\\Factory Design Pattern",
-    "\\Design Patterns\\Factory Design Pattern\\Practical 1",
-    "\\SOLID"
+    "\\SOLID",
+    "\\SOLID\\Liskov Substitution Principle",
+    "\\SOLID\\Liskov Substitution Principle\\Case 2",
+    "\\SOLID\\Liskov Substitution Principle\\Case 2\\LSP Violation",
+    "\\SOLID\\Liskov Substitution Principle\\Case 2\\LSP Violation\\LSP Substitution",
+    "\\SOLID\\Liskov Substitution Principle\\Case 2\\LSP Violation\\LSP Substitution\\LSP Substitution",
+    "\\SOLID\\Open Closed Principle",
+    "\\SOLID\\Open Closed Principle\\Case 2",
+    "\\SOLID\\Open Closed Principle\\Case 2\\OCP Violation",
+    "\\SOLID\\Open Closed Principle\\Case 2\\OCP Violation\\OCP Violation",
+    "\\SOLID\\Open Closed Principle\\Case 2\\OCP Violation\\OCP Violation\\OCP Violation"
   ],
-  "SelectedNode": "\\Design Patterns",
+  "SelectedNode": "\\SOLID\\Open Closed Principle\\Case 2\\OCP Violation\\OCP Violation\\OCP Violation\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

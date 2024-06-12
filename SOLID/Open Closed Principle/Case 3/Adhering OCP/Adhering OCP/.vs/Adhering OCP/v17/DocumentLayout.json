@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Open Closed Principle\\Case 3\\Adhering OCP\\Adhering OCP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7890D00-8831-408B-A156-E0B2BF059E23}|Adhering OCP\\Adhering OCP.csproj|c:\\users\\praveen\\source\\repos\\solid-principles-and-design-patterns-practice_cs\\solid\\open closed principle\\case 3\\adhering ocp\\adhering ocp\\adhering ocp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7890D00-8831-408B-A156-E0B2BF059E23}|Adhering OCP\\Adhering OCP.csproj|solutionrelative:adhering ocp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Open Closed Principle\\Case 3\\Adhering OCP\\Adhering OCP\\Adhering OCP\\Program.cs",
+              "RelativeDocumentMoniker": "Adhering OCP\\Program.cs",
+              "ToolTip": "C:\\Users\\Praveen\\source\\repos\\SOLID-Principles-and-Design-Patterns-Practice_CS\\SOLID\\Open Closed Principle\\Case 3\\Adhering OCP\\Adhering OCP\\Adhering OCP\\Program.cs",
+              "RelativeToolTip": "Adhering OCP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T04:15:07.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
